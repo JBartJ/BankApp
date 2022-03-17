@@ -3,8 +3,7 @@
 This is a bank simulator app with 3 users accounts: Kevin Johnson from GB, Scarlett Stewart from USA and Shinji Mirukami from Japan. They can transfer the money between each other, request loan from bank, close account. Each user's money is in his national currency.
 
 # App preview
-
-![image](https://user-images.githubusercontent.com/99435285/158790052-b94dad89-d929-4f41-8e1f-ca2ce104a30e.png)
+![image](https://user-images.githubusercontent.com/99435285/158790493-982e9969-7ccb-4696-85f0-9d29422a52cc.png)
 
 # Logging in
 
@@ -33,3 +32,9 @@ User can request a loan from bank by entering an amount of money that he want to
 User can close his account by entering his account data. After this he will be logged out and won't be able to log in again
 until he reloads the page.
 ![image](https://user-images.githubusercontent.com/99435285/158790314-2038b2ec-5cef-4012-a3d3-2e02b7b34dbb.png)
+
+# Sorting movements
+
+User can sort account's movements by values by clicking sort button.
+![image](https://user-images.githubusercontent.com/99435285/158790685-7797ec93-ee9d-46f9-9b04-e054fffdbc05.png)
+
