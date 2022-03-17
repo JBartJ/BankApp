@@ -20,11 +20,13 @@ User can log out manually by clicking "log out" button. It can also happen autom
 # Transferring money
 
 To transfer the money to another account user needs to pass initials of user to whom he wants to transfer the money and the amount of money that he want to pass.
+
 ![image](https://user-images.githubusercontent.com/99435285/158790159-a458d25e-62b1-4a2e-9a15-dc922b0bb629.png)
 
 # Loan from bank
 
 User can request a loan from bank by entering an amount of money that he want to get. The loan will be accepted if he has at least one movement worth at least 10% of the loan amount. Loan is delayed by 3 seconds by using a timer.
+
 ![image](https://user-images.githubusercontent.com/99435285/158790258-3b6d099f-8408-4cdd-ba13-8e8c79ef63a5.png)
 
 # Closing account
