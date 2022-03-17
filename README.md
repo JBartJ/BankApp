@@ -20,7 +20,7 @@ User can log out manually by clicking "log out" button. It can also happen autom
 
 # Transferring money
 
-To transfer the money to another account user needs to pass initials of user to whom he wants to transfer the money and the amount of money that he want to pass.
+To transfer the money to another account user needs to pass initials of user to whom he wants to transfer the money and the amount of money that he want to pass. Every account uses different currency, so the value is obviously calculated to currency of receiver.
 
 ![image](https://user-images.githubusercontent.com/99435285/158790159-a458d25e-62b1-4a2e-9a15-dc922b0bb629.png)
 
