@@ -11,6 +11,7 @@ User can log in by entering his account data into 2 text boxes following this ru
 user = user initials (kj for Kevin, ss for Scarlett, sm for Shinji)
 PIN = 1111 for Kevin, 2222 for Scarlett, 3333 for Shinji
 User can relog to another account when he is logged in.
+
 ![image](https://user-images.githubusercontent.com/99435285/158789978-683bc89f-eae5-4461-9aa1-beb722e9e532.png)
 
 # Logging out
@@ -33,10 +34,12 @@ User can request a loan from bank by entering an amount of money that he want to
 
 User can close his account by entering his account data. After this he will be logged out and won't be able to log in again
 until he reloads the page.
+
 ![image](https://user-images.githubusercontent.com/99435285/158790314-2038b2ec-5cef-4012-a3d3-2e02b7b34dbb.png)
 
 # Sorting movements
 
 User can sort account's movements by values by clicking sort button.
+
 ![image](https://user-images.githubusercontent.com/99435285/158790685-7797ec93-ee9d-46f9-9b04-e054fffdbc05.png)
 
